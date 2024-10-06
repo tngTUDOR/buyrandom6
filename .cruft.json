@@ -1,0 +1,24 @@
+{
+  "template": "/home/tomas/workspaces/brightway-lca/cookiecutter-brightwaylib",
+  "commit": "555ddaf66b5ac8013316e936f0bda4287383b1da",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "full_name": "Tomás NAVARRETE GUTIÉRREZ",
+      "email": "tngTUDOR@noreply.users.github.com",
+      "github_username": "tngTUDOR",
+      "project_name": "buyrandom6",
+      "package_name": "buyrandom6",
+      "project_short_description": "a random 6 buyer",
+      "version": "0.0.1",
+      "use_pytest": "y",
+      "open_source_license": "MIT",
+      "copyright_year": "2024",
+      "_copy_without_render": [
+        ".github/*"
+      ],
+      "_template": "/home/tomas/workspaces/brightway-lca/cookiecutter-brightwaylib"
+    }
+  },
+  "directory": null
+}
