@@ -1,6 +1,6 @@
 {
   "template": "/home/tomas/workspaces/brightway-lca/cookiecutter-brightwaylib",
-  "commit": "555ddaf66b5ac8013316e936f0bda4287383b1da",
+  "commit": "94166d4beb7e5e0c235b32a3859f43123af6dc61",
   "checkout": null,
   "context": {
     "cookiecutter": {
